@@ -1,4 +1,4 @@
-# Availabe plugins
+# Available plugins
 
 * ``beacon_control-presence_extension``
 * ``beacon_control-analytics_extension``
