@@ -19,7 +19,7 @@ This document provides API docs for BeaconCtrl platform.
 * [Custom Deployment](custom_deployment/README.md)
   * [Configuration](custom_deployment/configuration.md)
   * [Startup](custom_deployment/startup.md)
-  * [Avaialble plugins](custom_deployment/plugins.md)
+  * [Available plugins](custom_deployment/plugins.md)
   * [Create new extension](custom_deployment/new_extension/README.md)
     * [Generating gem template](custom_deployment/new_extension/generate.md)
     * [Configuration](custom_deployment/new_extension/configuration.md)
